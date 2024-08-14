@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "671c34225ad06f637b925d2b19e35ea786ac053f33500facc3a8eb5524f0b082"
+build_start_time: [1723621612, 942293167]
+build_end_time: [1723621612, 998782157]
+inputs:
+  ? "/Users/macbook/Desktop/alu_mobile_development/get_it_done/macos/Pods/FirebaseSharedSwift/FirebaseSharedSwift/Sources/FirebaseRemoteConfigValueDecoding.swift"
+  : !private [1723589785, 704670667]
+  ? "/Users/macbook/Desktop/alu_mobile_development/get_it_done/macos/Pods/FirebaseSharedSwift/FirebaseSharedSwift/Sources/third_party/FirebaseDataEncoder/FirebaseDataEncoder.swift"
+  : !private [1723589785, 703949928]

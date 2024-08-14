@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/macbook/Desktop/alu_mobile_development/get_it_done/build/macos/Build/Products/Release/FirebaseSharedSwift/FirebaseSharedSwift.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/macbook/Desktop/alu_mobile_development/get_it_done/build/macos/Build/Intermediates.noindex/Pods.build/Release/FirebaseSharedSwift.build/unextended-module.modulemap",
+    }]
+  }]
+}
